@@ -20,7 +20,7 @@ const plugins = [
   })
 ]
 const globals = {
-  jquery: '$',
+  jquery: 'jQuery',
   'popper.js': 'Popper'
 }
 
