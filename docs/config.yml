@@ -2,8 +2,8 @@ languageCode:           "en"
 title:                  "Bootstrap"
 baseURL:                "http://127.0.0.1:9001"
 
-buildDrafts:            false
-buildFuture:            false
+buildDrafts:            true
+buildFuture:            true
 
 enableRobotsTXT:        true
 metaDataFormat:         "yaml"
